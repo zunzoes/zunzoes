@@ -2,7 +2,7 @@
 Hello fellas I'm Ghiffar, just a normal Programmer that have interest to be a Frontend Developer 🦹‍♂️!
 
 ### About me: 
-- I am currently pursuing a bachelor's degree in information systems at Telkom University Jakarta 🇮🇩.
+- I am currently pursuing a bachelor's degree in Information Systems at Telkom University Jakarta 🇮🇩.
 - Focus on Frontend skill (HTML, CSS, Javascript, etc.).
 - Try to make a memorable game in Roblox.
 
